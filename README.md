@@ -1,4 +1,3 @@
-# SPEECH-TO-TEXT
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +6,7 @@
 </head>
 <body>
     <div>
+        <h1>&#127908; SPEECH to TEXT</h1>
         <p>Welcome to the Speech-to-Text Converter! This intuitive and interactive tool allows you to effortlessly convert your spoken words into written text in real-time. Explore its features below:</p>
         <h2>&#128221; Features</h2>
         <ul>
