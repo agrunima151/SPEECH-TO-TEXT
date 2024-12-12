@@ -19,8 +19,12 @@
         <h2>&#9881; How It Works</h2>
         <p>
             Simply click the microphone button to start speaking. The tool will process your speech and display the transcribed text in the textarea. Click the button again to stop recognition. It's that simple!
+            <a href="http://127.0.0.1:5500/index.html">&#128241; Try the Demo</a>
         </p>
-        <a href="http://127.0.0.1:5500/index.html">&#128241; Try the Demo</a>
+        <br>
+        <footer>
+            &copy; 2024 Arunima Gupta | <a href="https://github.com/agrunima151/SPEECH-TO-TEXT" target="_blank" style="text-decoration:               none;">&#128279; GitHub Repository</a>
+        </footer>
     </div>
 </body>
 </html>
